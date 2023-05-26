@@ -2,7 +2,6 @@
 body {
   display: flex;
   flex-direction: column;
-  background-color: rgb(201, 161, 87);
   border: 8px;
 
 }
