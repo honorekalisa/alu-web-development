@@ -7,5 +7,4 @@ I will focus on the CSS and the style of the page. The designer file will be ava
 
 ## Screenshots
 
-![App Screenshot](https://drive.google.com/file/d/1PEmAmucYtb9St8BK6XNH_jIJ2SoRZ2s9/view?usp=drive_link)
-1f4cd63ecc3a8c03b0f4309b74aca179e225aabf.png
+![1f4cd63ecc3a8c03b0f4309b74aca179e225aabf](https://github.com/honorekalisa/alu-web-development/assets/122342663/2ba497c1-2283-4076-b0e3-57980de9075c)
