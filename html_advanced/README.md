@@ -7,4 +7,4 @@ I will focus on the HTML structure only - no CSS, no style - just pure HTML sema
 
 ## Screenshots
 
-![App Screenshot](https://drive.google.com/file/d/1LDGw71_rZXyxRU_LNxf2XSAmomLKaf6s/view?usp=drive_link)
+![App Screenshot](https://drive.google.com/file/d/1PEmAmucYtb9St8BK6XNH_jIJ2SoRZ2s9/view?usp=drive_link)
